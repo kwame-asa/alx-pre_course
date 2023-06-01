@@ -1,5 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "School#!/bin/bash
 echo "School"
 "
@@ -7,3 +8,8 @@ echo "School"
 echo "The school is open!"
 
 >>>>>>> update_script
+=======
+echo "The school is open!"
+
+
+>>>>>>> 11050f71543a27e0b9835da309de647a3e693bf4
